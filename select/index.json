@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Nostalogic",
+  "base_artist": "桐谷遥",
+  "createdAt": "2026-01-12T14:57:32.593641Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Nostalogic (feat. 桐谷遥&日野森雫&MEIKO)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/01_Nostalogic_(feat._桐谷遥&日野森雫&MEIKO)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Nostalogic",
+      "artist": "MORE MORE JUMP! feat. 桐谷遥&日野森雫&MEIKO",
+      "has_synced": true,
+      "path": "select/02_Nostalogic_MORE_MORE_JUMP!_feat._桐谷遥&日野森雫&MEIKO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Nostalogic (MEIKO-SAN mix) feat.MEIKO",
+      "artist": "yuukiss",
+      "has_synced": false,
+      "path": "select/03_Nostalogic_(MEIKO-SAN_mix)_feat.MEIKO_yuukiss.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Nostalogic",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/04_Nostalogic_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Nostalogic (single edit)",
+      "artist": "yuukiss feat. MEIKO",
+      "has_synced": true,
+      "path": "select/05_Nostalogic_(single_edit)_yuukiss_feat._MEIKO.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Nostalogic (single edit)",
+      "artist": "yuukiss",
+      "has_synced": false,
+      "path": "select/06_Nostalogic_(single_edit)_yuukiss.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Nostalogic (MEIKO-SAN mix)",
+      "artist": "yuukiss",
+      "has_synced": true,
+      "path": "select/07_Nostalogic_(MEIKO-SAN_mix)_yuukiss.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Nostalogic(MEIKO-SAN mix)",
+      "artist": "yuukiss feat.MEIKO",
+      "has_synced": true,
+      "path": "select/08_Nostalogic(MEIKO-SAN_mix)_yuukiss_feat.MEIKO.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Nostalogic (MEIKO-SAN mix)",
+      "artist": "yuukiss feat. MEIKO",
+      "has_synced": true,
+      "path": "select/09_Nostalogic_(MEIKO-SAN_mix)_yuukiss_feat._MEIKO.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Nostalogic(MEIKO-SAN mix)",
+      "artist": "MEIKO",
+      "has_synced": true,
+      "path": "select/10_Nostalogic(MEIKO-SAN_mix)_MEIKO.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Nostalogic (MEIKO-SAN mix)",
+      "artist": "MEIKO",
+      "has_synced": true,
+      "path": "select/11_Nostalogic_(MEIKO-SAN_mix)_MEIKO.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Nostalogic",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/12_Nostalogic_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Nostalogic(MEIKO-SAN mix)",
+      "artist": "yuukiss",
+      "has_synced": true,
+      "path": "select/13_Nostalogic(MEIKO-SAN_mix)_yuukiss.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Nostalogic(MEIKO-SAN mix)",
+      "artist": "yuukiss feat. MEIKO",
+      "has_synced": true,
+      "path": "select/14_Nostalogic(MEIKO-SAN_mix)_yuukiss_feat._MEIKO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Nostalogic",
+      "artist": "桐谷遥",
+      "has_synced": false,
+      "path": "select/pl_01_Nostalogic_桐谷遥.txt"
+    }
+  ]
+}
